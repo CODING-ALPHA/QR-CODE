@@ -1,0 +1,31 @@
+@media only screen and (max-width:352px){
+    .container{
+        width: 300px;
+        height: 30rem;
+    }
+
+    img{
+        width: 275px;
+    }
+
+
+
+}
+
+@media only screen and (max-width:340px){
+    .container{
+        width: 250px;
+        height: 26rem;
+    }
+    img{
+        width: 230px;
+    }
+
+    h2{
+        font-size: 18px;
+    }
+    p{
+        font-size: 13px;
+    }
+
+}
